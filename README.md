@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <!--OS-->
   <a href="" target=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a>
   <a href="" target=""><img src="https://img.shields.io/badge/Windows-0089D4?style=plastic&logo=Windows&logoColor=white"/></a>
-  <!--개발 환경-->
+  <!--Tools-->
   <a href="" target=""><img src="https://img.shields.io/badge/VScode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/></a>
   <a href="" target=""><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/></a>
   <a href="" target=""><img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/></a>
