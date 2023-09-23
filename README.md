@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <a href="" target=""><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 
   ---
-  ### 🌏 SNS
+  ### 🌏 Me
   <!--SNS(linkedin, blog, cv-notion?)-->
   <a href="" target=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
 
