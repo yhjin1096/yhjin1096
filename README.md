@@ -16,21 +16,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+---
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhjin1096&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--OS-->
-<a href="" target=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Windows-0089D4?style=plastic&logo=Windows&logoColor=white"/></a>
-<!--개발 환경-->
-<a href="" target=""><img src="https://img.shields.io/badge/VScode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
-<!--Tool(Eigen, PCL)-->
-<a href="" target=""><img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/></a>
-<!--Language-->
-<a href="연결될 링" target=""><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
-<!--SNS(linkedin, blog, cv-notion?)-->
-<a href="" target=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
+
+---  
+### 📚 I've used
+
+  
+  <!--OS-->
+  <a href="" target=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/Windows-0089D4?style=plastic&logo=Windows&logoColor=white"/></a>
+  <!--개발 환경-->
+  <a href="" target=""><img src="https://img.shields.io/badge/VScode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
+  <!--Library(Eigen, PCL)-->
+  <a href="" target=""><img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>
+  <!--Language-->
+  <a href="연결될 링" target=""><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
+  <!--SNS(linkedin, blog, cv-notion?)-->
+  <a href="" target=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
+
+</div>
