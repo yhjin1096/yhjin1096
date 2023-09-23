@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
----
+  ---
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhjin1096&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhjin1096&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
----  
-### 📚 I've used
+  ---  
+  ### 📚 I've used
 
   
   <!--OS-->
@@ -43,7 +43,13 @@ Here are some ideas to get you started:
   <a href="연결될 링" target=""><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>
   <a href="" target=""><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/></a>
   <a href="" target=""><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
+
+  ---
+  ### 🌏 SNS
   <!--SNS(linkedin, blog, cv-notion?)-->
   <a href="" target=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
 
+  ---
+  ![Hyeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhjin1096&show_icons=true&theme=radical)
+  [![yhjin1096 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yhjin1096&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yhjin1096)
 </div>
